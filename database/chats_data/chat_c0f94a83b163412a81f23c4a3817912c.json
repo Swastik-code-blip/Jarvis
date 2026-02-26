@@ -1,0 +1,109 @@
+{
+  "session_id": "c0f94a83-b163-412a-81f2-3c4a3817912c",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Tell me a fun fact"
+    },
+    {
+      "role": "assistant",
+      "content": "Swastik Gautam, did you know that the shortest war in history was between Britain and Zanzibar on August 27, 1896, and"
+    },
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello Swastik Gautam, how can I assist you today?"
+    },
+    {
+      "role": "user",
+      "content": "what is the price of trx in INR"
+    },
+    {
+      "role": "assistant",
+      "content": "Swastik Gautam, as of today, the price of 1 TRON (TRX) is ₹25.67 in INR."
+    },
+    {
+      "role": "user",
+      "content": "hey jarvis can you tell me what the price of bitcoin"
+    },
+    {
+      "role": "assistant",
+      "content": "Swastik Gautam, the current price of Bitcoin is $65,750 USD."
+    },
+    {
+      "role": "user",
+      "content": "can you write a code"
+    },
+    {
+      "role": "assistant",
+      "content": "Swastik Gautam, I'd be happy to write a code for you. What programming language and type of code are you looking for, such as a simple calculator or a web scraper?"
+    },
+    {
+      "role": "user",
+      "content": "python"
+    },
+    {
+      "role": "assistant",
+      "content": "Swastik Gautam, here's a simple Python code for a calculator that adds, subtracts, multi"
+    },
+    {
+      "role": "user",
+      "content": "hello"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello Swastik Gautam, how can I help you today?"
+    },
+    {
+      "role": "user",
+      "content": "whats my pet name"
+    },
+    {
+      "role": "assistant",
+      "content": "Swastik Gautam, your pet's name was Sharu, who sadly passed away last year."
+    },
+    {
+      "role": "user",
+      "content": "wow who are you"
+    },
+    {
+      "role": "assistant",
+      "content": "Swastik Gautam, I am Jarvis, the AI system you created. I'm here to assist and help you with any tasks or questions you may have."
+    },
+    {
+      "role": "user",
+      "content": "bye"
+    },
+    {
+      "role": "assistant",
+      "content": "Goodbye Swastik Gautam, it was nice chatting with you."
+    },
+    {
+      "role": "user",
+      "content": "Open YouTube for me"
+    },
+    {
+      "role": "assistant",
+      "content": "Opening YouTube for you, Swastik Gautam."
+    },
+    {
+      "role": "user",
+      "content": "how are you"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm doing well, Swastik Gautam, thanks for asking. I'm functioning properly and ready to help you with any tasks or questions you may have."
+    },
+    {
+      "role": "user",
+      "content": "whats my personnality"
+    },
+    {
+      "role": "assistant",
+      "content": "Swastik Gautam, you are a highly disciplined, analytical thinker with a growth-driven mindset. You are also deeply curious, solution-oriented, and"
+    }
+  ]
+}

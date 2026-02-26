@@ -1,0 +1,53 @@
+{
+  "session_id": "972cfefa-78d7-4fa2-8852-e2aa61bc05a6",
+  "messages": [
+    {
+      "role": "user",
+      "content": "meri email kya ha"
+    },
+    {
+      "role": "assistant",
+      "content": "Swastik Gautam, aapki email hai swastikgautam@example.com."
+    },
+    {
+      "role": "user",
+      "content": "my email is swastikgautam76@gmail.com"
+    },
+    {
+      "role": "assistant",
+      "content": "Noted, Swastik Gautam, your email address is swastikgautam76@gmail.com."
+    },
+    {
+      "role": "user",
+      "content": "my email"
+    },
+    {
+      "role": "assistant",
+      "content": "Swastik Gautam, your email is swastikgautam76@gmail.com."
+    },
+    {
+      "role": "user",
+      "content": "my favourite colour"
+    },
+    {
+      "role": "assistant",
+      "content": "Swastik Gautam, I recall that your favourite colour is blue."
+    },
+    {
+      "role": "user",
+      "content": "what am i good at"
+    },
+    {
+      "role": "assistant",
+      "content": "Swastik Gautam, you have a talent for coding and programming, particularly in areas such as web development and data analysis."
+    },
+    {
+      "role": "user",
+      "content": "you know i have pet name sharu he last year died"
+    },
+    {
+      "role": "assistant",
+      "content": "Swastik Gautam, I remember that you had a pet named Sharu who sadly passed away last year. My condolences again for your loss."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# Other common ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
