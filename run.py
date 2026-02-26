@@ -1,14 +1,11 @@
-import uvicorn
 import os
+import uvicorn
 
 if __name__ == "__main__":
-    port = int(os.getenv("PORT", 8000))          # Railway sets PORT, fallback to 8000 locally
-    reload = os.getenv("ENV") != "production"    # optional: reload only if not prod
-
+    port = int(os.getenv("PORT", 8000))  # Use Render's PORT, fallback to 8000 locally
     uvicorn.run(
         "app.main:app",
-        host="0.0.0.0",
+        host="0.0.0.0",                  # MUST be 0.0.0.0
         port=port,
-        reload=reload
+        reload=False                     # No reload on prod
     )
-
